@@ -9,3 +9,7 @@ Versatile Applications: Ideal for art, design, education, gaming, data visualiza
 Customization: Offers various virtual tools and templates.
 Integration: Compatible with other AR/VR technologies for diverse applications.
 In essence, the Air Canvas merges the digital and physical worlds, offering a dynamic and collaborative platform with numerous creative and practical applications.
+
+##CONTRIBUTORS
+Sonika Ramesh (https://github.com/iamsonuram)
+Yashas R (https://github.com/Yashasrn33)
